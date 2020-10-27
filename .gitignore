@@ -106,6 +106,4 @@ dist
 # MySQL key
 config/
 
-_scratch-Query.js
-
 .env
